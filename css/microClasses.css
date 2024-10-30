@@ -1,0 +1,76 @@
+body {
+    margin: 0 80px;
+    background-color: #f5f5f0;
+}
+
+.container {
+    background-color: #F5F5DC;
+}
+
+.spacer {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.lText {
+    font-size: 22px;
+}
+
+.mText {
+    font-size: 18px;
+}
+
+.paddingTop15 {
+    padding-top: 15px;
+}
+
+.paddingX15 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+.flexWrapperRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.flexWrapperCol {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.flexTwoThird {
+    flex: 8;
+    border: 1px solid blue;
+}
+
+.flexThird {
+    flex: 4;
+    border: 1px solid red;
+}
+
+.flexHalf {
+    flex: 6;
+    border: 1px solid green;
+}
+
+.flexQuarter {
+    flex: 3;
+    border: 1px solid red;
+}
+
+.flexThreeQuarter {
+    flex: 9;
+    border: 1px solid blue;
+}

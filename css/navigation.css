@@ -1,0 +1,54 @@
+.mainNav {
+    background-color: #F5F5DC;
+    border-bottom: 1px solid black;
+}
+
+.navList {
+    text-decoration: none;
+}
+
+.navList li {
+    display: inline-block;
+    font-size: 22px;
+    font-weight: 600;
+    margin: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    vertical-align: middle;
+    line-height: 0;
+}
+
+.navLink {
+    text-decoration: none;
+    color: #8B5A2B;
+}
+
+.navLink:hover {
+    color: #4B8B3B;
+    text-decoration: underline;
+}
+
+.navLink:active .navLink:visited {
+    color: #4B8B3B;
+}
+
+.mainFooter{
+    background-color: #F5F5DC;
+    padding: 20px;
+    text-align: center;
+}
+
+.footerLink{
+    color:#4B8B3B;
+    margin: 0 15px;
+}
+
+.footerCopy{
+    margin-top: 10px;
+}
+
+.footerCopyRight{
+    margin-top: 10px;
+    font-size: 10px;
+}
+
