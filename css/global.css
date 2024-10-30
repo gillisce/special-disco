@@ -43,7 +43,7 @@ body {
 
 .heroImage {
     /* Use "linear-gradient" to add a darken background effect to the image*/
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("resize_hero.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/resize_hero.jpg");
     /* Set a specific height */
     height: 45%;
     /* Position and center the image to scale nicely on all screens */
